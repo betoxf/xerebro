@@ -64,7 +64,7 @@ All of this happens while you're away from your computer. Check on your Mac, sta
 ### Security & Privacy
 - **Your bot, your access** - Only your Telegram ID can control it
 - **Local processing** - Runs entirely on your Mac
-- **Encrypted credentials** - API keys stored securely in macOS Keychain
+- **Encrypted credentials** - API keys stored securely in local encrypted storage
 - **No cloud storage** - Screenshots and data stay on your machine
 
 ### Menu Bar App
@@ -152,7 +152,7 @@ Xerebro takes your privacy seriously:
 
 - **No data collection** - We don't collect any usage data
 - **Local only** - Everything runs on your Mac
-- **Your API keys** - Stored in macOS Keychain, encrypted
+- **Your API keys** - Stored locally in AES-encrypted file
 - **Your bot** - Only your Telegram ID can send commands
 - **Open communication** - You see exactly what Claude does
 
