@@ -158,15 +158,6 @@ Xerebro takes your privacy seriously:
 
 ---
 
-## Technical Details
-
-- **Built with**: Swift (macOS app) + Python (Telegram bot)
-- **AI Model**: Claude (Haiku for speed, Opus for power)
-- **Screen control**: PyAutoGUI + macOS Accessibility APIs
-- **Bundled runtime**: Self-contained Python, no dependencies needed
-
----
-
 ## FAQ
 
 **Is this safe?**
