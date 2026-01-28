@@ -27,7 +27,7 @@ Xerebro lets you control your Mac remotely through natural language. Chat with A
 | Platform | Link |
 |----------|------|
 | **macOS** | [Download DMG](https://github.com/betoxf/xerebro/releases/latest) |
-| **iOS** | TestFlight (coming soon) |
+| **iOS** | [TestFlight](https://testflight.apple.com/join/dg2xWAnv) |
 | **Web** | [xerebro.app](https://xerebro.app) |
 
 ---
